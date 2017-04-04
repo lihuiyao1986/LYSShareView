@@ -40,7 +40,7 @@
         NSLog(@"取消按钮被点击");
     };
     _view.shareTitle = @"分享";
-    _view.items = @[@{@"title":@"微信好友",@"image":@"webchat_friend"},@{@"title":@"微信朋友圈",@"image":@"webchat_circle"},@{@"title":@"QQ",@"image":@"QQ"},@{@"title":@"QQ空间",@"image":@"qzone"}];
+    _view.items = @[@{@"title":@"微信好友",@"image":@"LYSShareView.bundle/webchat_friend"},@{@"title":@"微信朋友圈",@"image":@"LYSShareView.bundle/webchat_circle"},@{@"title":@"QQ",@"image":@"LYSShareView.bundle/QQ"},@{@"title":@"QQ空间",@"image":@"LYSShareView.bundle/qzone"}];
     [_view show:nil];
 }
 

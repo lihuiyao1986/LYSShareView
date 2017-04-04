@@ -14,6 +14,7 @@
 		4874EBC31E938DCD0042D4A7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4874EBC21E938DCD0042D4A7 /* Assets.xcassets */; };
 		4874EBC61E938DCD0042D4A7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4874EBC41E938DCD0042D4A7 /* LaunchScreen.storyboard */; };
 		4874EBD01E938EC60042D4A7 /* LYSShareView.m in Sources */ = {isa = PBXBuildFile; fileRef = 4874EBCF1E938EC60042D4A7 /* LYSShareView.m */; };
+		4874EBD41E93F1FB0042D4A7 /* LYSShareView.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 4874EBD31E93F1FB0042D4A7 /* LYSShareView.bundle */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		4874EBC71E938DCD0042D4A7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4874EBCE1E938EC60042D4A7 /* LYSShareView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LYSShareView.h; sourceTree = "<group>"; };
 		4874EBCF1E938EC60042D4A7 /* LYSShareView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LYSShareView.m; sourceTree = "<group>"; };
+		4874EBD31E93F1FB0042D4A7 /* LYSShareView.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = LYSShareView.bundle; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +90,7 @@
 			children = (
 				4874EBCE1E938EC60042D4A7 /* LYSShareView.h */,
 				4874EBCF1E938EC60042D4A7 /* LYSShareView.m */,
+				4874EBD31E93F1FB0042D4A7 /* LYSShareView.bundle */,
 			);
 			path = LYSShareView;
 			sourceTree = "<group>";
@@ -152,6 +155,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4874EBC61E938DCD0042D4A7 /* LaunchScreen.storyboard in Resources */,
+				4874EBD41E93F1FB0042D4A7 /* LYSShareView.bundle in Resources */,
 				4874EBC31E938DCD0042D4A7 /* Assets.xcassets in Resources */,
 				4874EBC11E938DCD0042D4A7 /* Main.storyboard in Resources */,
 			);
